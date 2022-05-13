@@ -1,4 +1,4 @@
-# python-practice-projects-and-file
+# python-practice-cv builder
 
 ## installation
 run 'python instal -r reqirements.txt'
